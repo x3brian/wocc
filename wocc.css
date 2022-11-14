@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	height: 960px;
+	background: url(home_bg.jpg) no-repeat scroll center top;
+	border: none;
+	margin: 0;
+}
+#header {
+	position:relative;
+	margin: 91px auto;
+	width: 1027px;
+	height: 220px;
+}
+#EdgeID {
+	position: absolute;
+	overflow: hidden !important;
+	display: inline;
+	width: 1050px;
+}
